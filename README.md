@@ -2,6 +2,8 @@
 
 <img width="1567" alt="Screenshot 2024-02-05 at 1 25 19 AM" src="https://github.com/mrizwanriaz/DEG-volcano/assets/77746474/635c501b-783c-4275-84bb-10f7c62d4416">
 
+RShiny app is live at https://mc-lab.shinyapps.io/DE_viewer/
+
 This RShiny app is designed to visualize differentially expressed genes using volcano plots. The app takes a csv file as input, which should contain three columns i.e., gene, log2FoldChange, padj. The app then generates volcano plots to visualize the gene expression. 
 
 Installation:
@@ -19,8 +21,6 @@ Usage:
 6. Save the plot for future use.
 
 Note: The input csv file should have the exact column names as mentioned above. 
-
-# Shiny app is live at https://mc-lab.shinyapps.io/DE_viewer/
 
 License:
 This project is licensed under the MIT License. You can find more information in the LICENSE file in the GitHub repository.
