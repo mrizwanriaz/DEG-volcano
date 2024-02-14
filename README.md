@@ -4,7 +4,7 @@
 
 RShiny app is live at https://rizwanriaz.shinyapps.io/DEGs/
 
-This RShiny app is designed to visualize differentially expressed genes using volcano plots. The app takes a csv file as input, which should contain three columns i.e., gene, log2FoldChange, padj. The app then generates volcano plots to visualize the gene expression. 
+This RShiny app is designed to visualize differentially expressed genes using volcano plots. The app takes a _CSV_ file as input, which should contain three columns, i.e., _gene_, _log2FoldChange_, _padj_. The app then generates volcano plots to visualize the gene expression. 
 
 Local Installation:
 1. Install R on your system.
